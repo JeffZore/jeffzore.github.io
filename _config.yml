@@ -42,10 +42,10 @@ footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   zhihu:
-  email: arnoldchow@outlook.com
+  email:  
   facebook:
   flickr:
-  github: arnold117 
+  github: JeffZore 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -67,15 +67,15 @@ disqus: # fromendworld
 gitalk:
   clientID: Ov23lifAlmngT1mDw6eK
   clientSecret: 72431c12b851561fc2565a9b93449b03fb24e851
-  repo: arnold117.github.io
-  owner: arnold117
+  repo: jeffzore.github.io
+  owner: JeffZore
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 # google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://arnold117.github.io
+url: https://jeffzore.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
